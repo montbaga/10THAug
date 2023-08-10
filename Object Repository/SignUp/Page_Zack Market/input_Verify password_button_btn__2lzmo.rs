@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Verify password_button_btn__2lzmo</name>
+   <tag></tag>
+   <elementGuidId>314f3a24-5a03-4e03-b406-47817d1af9b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign Up']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button_btn__2lzmo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5135c6e6-f25a-440e-a5ba-a3c33c1dcd1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9c241bf-c79e-49b6-99b8-ba268a789c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_btn__2lzmo</value>
+      <webElementGuid>328aae80-d335-401b-ba54-d19ef85f4773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>498b45b4-1dc5-4e75-9713-aafc6d12fc64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;loginsignin_outbox__igIjJ&quot;]/div[@class=&quot;loginsignin_box__2rRZG&quot;]/div[@class=&quot;base_outbox__v79b7&quot;]/div[@class=&quot;button_outbox__3LP33&quot;]/input[@class=&quot;button_btn__2lzmo&quot;]</value>
+      <webElementGuid>b917931a-ae0b-4719-b10e-618a3bc59aef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Sign Up']</value>
+      <webElementGuid>78a9a713-1f87-4c05-98ec-19a8b181c798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[5]/input</value>
+      <webElementGuid>b9a1e5f6-f02c-4f9b-9046-c71681ed1a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input</value>
+      <webElementGuid>a93ef4c3-8c06-4451-a962-f0bf9f175905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>68082dcb-eb69-4bf3-a510-10f42ca0e93e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zack Market_userHeader_tag__2vbdQ</name>
+   <tag></tag>
+   <elementGuidId>c6fcd472-ab7a-479e-b45d-8797fde1b4ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.userHeader_loggout__2UYs3 > div.userHeader_tag__2vbdQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1307aec7-433f-4156-bf12-64fb76a54443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userHeader_tag__2vbdQ</value>
+      <webElementGuid>e4c97b57-4133-46f3-8183-ea3c479606b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;header_outbox__3eyFu&quot;]/div[1]/div[@class=&quot;userHeader_outbox__39yJK&quot;]/div[@class=&quot;userHeader_loggout__2UYs3&quot;]/div[@class=&quot;userHeader_tag__2vbdQ&quot;]</value>
+      <webElementGuid>c0bb727e-96c4-4435-921c-e6b8c4359eb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>51690f0e-f2ac-4bf7-8871-d5c7cf97de2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zack Market'])[2]/preceding::div[1]</value>
+      <webElementGuid>8cb7585f-9001-4a20-b8d2-5c7cd66f0c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Products'])[1]/preceding::div[10]</value>
+      <webElementGuid>e9d46be9-823f-4f13-b213-cfbdd9c0b364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>833eeba2-6ba1-44d7-81b9-a34923a46f47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
